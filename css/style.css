@@ -11,10 +11,11 @@ body {
     width: 100%;
     height: 65px;
 }
+
 .nav-right{
     float: right;
     font-size: 18px;
-    padding: 35px;
+    padding: 25px;
     padding-left: 10px;
     padding-right: 60px;
     font-family: 'Open Sans Condensed', sans-serif;
@@ -25,6 +26,7 @@ body {
     text-decoration: none;
     color: white;
 }
+
 .btn-outline-hireMe1{
     border-radius: 5px;
     font-size: 16px;
@@ -35,7 +37,6 @@ body {
     color:black;
     padding-left:20px;
     padding-right:20px;
-
 }
 
 .profilecontainer{
@@ -71,6 +72,7 @@ h2 {
     font-size: 70px;
     margin: 0px;
 }
+
 h3 {
     font-family: 'Open Sans Condensed', sans-serif;
     font-weight: bold;
@@ -207,7 +209,9 @@ h6{
     width: 450px;
     float: left;
     margin:60px;
+    padding-bottom:200px;
 }
+
 .btn-outline-loadmore {
     border-radius: 10px;
     font-size: 20px;
@@ -222,4 +226,79 @@ h6{
     padding-top:25px;
     padding-left: 570px;
     
+}
+.letworktogether{
+    margin-top:200px;
+    padding-top: 100px;
+    padding-bottom:130px;
+    background-image: url(../images/Rectangle\ 295.png);
+}
+
+
+
+.btn-outline-email{
+    border-radius: 10px;
+    font-size: 20px;
+    background-color:transparent;
+    cursor:pointer;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color:rgba(0, 0, 0, 0.801);
+    color: white;
+    padding:10px;
+}
+.emailbutton{
+    padding-left: 570px;  
+}
+
+.interested{
+    text-align: center;
+    margin:0px;
+    color: black;
+    font-size: 22px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.letswork{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px; 
+    color: #000000;
+    margin: 0px;
+}
+
+.footer {
+    display:inline-block;
+    margin: .5px;
+    margin-top: 200px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 65px;
+}
+.logo2 {
+    float: left;
+    padding-bottom: 25px;
+    padding-top:25px;
+    padding-left: 30px;
+    font-size: 18pt;
+    font-family: 'Sacramento', cursive;
+}
+
+.logo2 a{
+    margin:0px;
+    padding-left:50px;
+}
+
+.footer-right{
+    float: right;
+    font-size: 18px;
+    padding: 35px;
+    padding-left: 10px;
+    padding-right: 60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.footer-right a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
 }
