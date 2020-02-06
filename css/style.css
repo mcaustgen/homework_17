@@ -1,0 +1,225 @@
+body {
+    background-color: rgb(222, 245, 245);
+}
+.navbar {
+    display:inline-block;
+    margin: .5px;
+    margin-top: 0px;
+    padding: 5px;
+    color: white;
+    background-color:rgba(0, 0, 0, 0.801);
+    width: 100%;
+    height: 65px;
+}
+.nav-right{
+    float: right;
+    font-size: 18px;
+    padding: 35px;
+    padding-left: 10px;
+    padding-right: 60px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.nav-right a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+}
+.btn-outline-hireMe1{
+    border-radius: 5px;
+    font-size: 16px;
+    background-color:white;
+    cursor:pointer;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-left:10px;
+    color:black;
+    padding-left:20px;
+    padding-right:20px;
+
+}
+
+.profilecontainer{
+    padding: 75px;
+    width: 450px;
+    float: right;
+}
+
+.logo {
+    float: left;
+    padding: 10px;
+    padding-left: 30px;
+    font-size: 28pt;
+    font-family: 'Sacramento', cursive;
+}
+.intro{
+    padding-left:150px;
+}
+.contactbutton{
+    padding-left:150px;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 50px; 
+    color: #000000;
+    padding-top: 80px;
+    margin: 0px;
+}
+h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    margin: 0px;
+}
+h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+    padding-bottom:10px;
+}
+.btn-outline-hireme {
+    border-radius: 10px;
+    font-size: 20px;
+    background-color:transparent;
+    cursor:pointer;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-left:10px;
+    padding-left:30px;
+    padding-right:30px;
+    position: relative;
+    background-color:rgba(0, 0, 0, 0.801);
+    color: white;
+}
+
+.contactbutton {
+    padding-top: 50px;
+
+}
+
+.btn-outline-Seemyresume {
+    border-radius: 10px;
+    font-size: 20px;
+    background-color:transparent;
+    cursor:pointer;
+    font-family: 'Open Sans Condensed', sans-serif;
+    position: relative;
+}
+.list, .list a {
+    text-align: center;
+    padding-top:200px;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    color:black;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.btn-outline-primary {
+    border-radius: 10px;
+    font-size: 20px;
+    background-color:transparent;
+    cursor:pointer;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-left:10px;
+    margin-right: 10px;
+    float:right;
+    text-decoration: none;
+    color:black;
+}
+
+.caseStudy {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.caseStudy2 {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+
+}
+.container {
+    width: 85%;
+    height: fit-content;
+    margin-left: 15px;
+}
+.card {
+    width: 30%;
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    margin: 45px;
+}
+.card h4 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:20px;
+}
+.card p {
+    color: black;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 0;
+}
+.card img {
+    background-position: center;
+    background-repeat: none;
+    background-size: contain;
+    height: 300px;
+    margin: 0;
+}
+
+.card:hover{
+    box-shadow: 0 8px 16px black;
+}
+
+
+h5{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    padding-top:200px;
+}
+
+h5, h6 {
+    text-align: left;
+    margin:0px;
+
+}
+h6{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 50px; 
+}
+.aboutme p{
+    text-align: left;
+    margin:0px;
+    padding-right:150px;
+    padding-top: 10px;
+    color: black;
+    font-size: 22px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.aboutmecontainer{
+    padding-top: 180px;
+    padding-left:80px;
+    width: 450px;
+    float: left;
+    margin:60px;
+}
+.btn-outline-loadmore {
+    border-radius: 10px;
+    font-size: 20px;
+    background-color:transparent;
+    cursor:pointer;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color:rgba(0, 0, 0, 0.801);
+    color: white;
+
+}
+.loadmorebutton{
+    padding-top:25px;
+    padding-left: 570px;
+    
+}
